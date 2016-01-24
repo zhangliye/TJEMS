@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>798</width>
+    <height>603</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string/>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>798</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <addaction name="mActionNewProject"/>
+    <addaction name="mActionOpenProject"/>
+    <addaction name="separator"/>
+    <addaction name="actionOpen_Video_Files"/>
+    <addaction name="actionOpen_Current_Video"/>
+    <addaction name="separator"/>
+    <addaction name="actionExit"/>
+   </widget>
+   <widget class="QMenu" name="menuHelp">
+    <property name="title">
+     <string>Help</string>
+    </property>
+    <addaction name="actionWebsit"/>
+    <addaction name="actionManual"/>
+    <addaction name="separator"/>
+    <addaction name="actionAbout"/>
+    <addaction name="mTest"/>
+   </widget>
+   <widget class="QMenu" name="menuSettings">
+    <property name="title">
+     <string>Settings</string>
+    </property>
+    <addaction name="actionSetting"/>
+    <addaction name="separator"/>
+    <addaction name="mActionExploringModel"/>
+    <addaction name="mActionLoopDetector"/>
+    <addaction name="mActionDetectionTrack"/>
+   </widget>
+   <widget class="QMenu" name="menuView">
+    <property name="title">
+     <string>View</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menuVideo_Processing">
+    <property name="title">
+     <string>Video Processing</string>
+    </property>
+    <addaction name="actionNext_Frame"/>
+    <addaction name="separator"/>
+    <addaction name="actionFinish_processing"/>
+    <addaction name="actionBottom_window"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuView"/>
+   <addaction name="menuVideo_Processing"/>
+   <addaction name="menuSettings"/>
+   <addaction name="menuHelp"/>
+  </widget>
+  <widget class="QStatusBar" name="mStatusbar"/>
+  <action name="actionOpen_Video_Files">
+   <property name="text">
+    <string>open new video</string>
+   </property>
+  </action>
+  <action name="actionOpen_Current_Video">
+   <property name="text">
+    <string>open current video</string>
+   </property>
+  </action>
+  <action name="actionExit">
+   <property name="text">
+    <string>Exit</string>
+   </property>
+  </action>
+  <action name="actionWebsit">
+   <property name="text">
+    <string>Websit</string>
+   </property>
+  </action>
+  <action name="actionManual">
+   <property name="text">
+    <string>Manual</string>
+   </property>
+  </action>
+  <action name="actionAbout">
+   <property name="text">
+    <string>About</string>
+   </property>
+  </action>
+  <action name="actionNext_Frame">
+   <property name="text">
+    <string>Next Frame (Space)</string>
+   </property>
+  </action>
+  <action name="actionFinish_processing">
+   <property name="text">
+    <string>Finish processing</string>
+   </property>
+  </action>
+  <action name="actionTest">
+   <property name="text">
+    <string>test</string>
+   </property>
+  </action>
+  <action name="actionSetting">
+   <property name="text">
+    <string>setting</string>
+   </property>
+  </action>
+  <action name="action50">
+   <property name="text">
+    <string>50</string>
+   </property>
+  </action>
+  <action name="action100">
+   <property name="text">
+    <string>100</string>
+   </property>
+  </action>
+  <action name="action150">
+   <property name="text">
+    <string>150</string>
+   </property>
+  </action>
+  <action name="action200">
+   <property name="text">
+    <string>200</string>
+   </property>
+  </action>
+  <action name="action250">
+   <property name="text">
+    <string>250</string>
+   </property>
+  </action>
+  <action name="action300">
+   <property name="text">
+    <string>300</string>
+   </property>
+  </action>
+  <action name="action350">
+   <property name="text">
+    <string>350</string>
+   </property>
+  </action>
+  <action name="action400">
+   <property name="text">
+    <string>400</string>
+   </property>
+  </action>
+  <action name="actionFit_window">
+   <property name="text">
+    <string>fit window</string>
+   </property>
+  </action>
+  <action name="action25">
+   <property name="text">
+    <string>25</string>
+   </property>
+  </action>
+  <action name="mMenuViewPlot">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>plot window</string>
+   </property>
+  </action>
+  <action name="mMenuViewMatrix">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>matrix window</string>
+   </property>
+  </action>
+  <action name="actionBottom_window">
+   <property name="text">
+    <string>bottom window</string>
+   </property>
+  </action>
+  <action name="mMenuViewBottom">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>bottom window</string>
+   </property>
+  </action>
+  <action name="mActionLoopDetector">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Loop detector model</string>
+   </property>
+  </action>
+  <action name="mActionDetectionTrack">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Detection and Track model</string>
+   </property>
+  </action>
+  <action name="mActionExploringModel">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Exploring model</string>
+   </property>
+  </action>
+  <action name="mActionNewProject">
+   <property name="text">
+    <string>New project</string>
+   </property>
+  </action>
+  <action name="mActionOpenProject">
+   <property name="text">
+    <string>Open project</string>
+   </property>
+  </action>
+  <action name="mTest">
+   <property name="text">
+    <string>test</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

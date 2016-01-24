@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ToolBicycleHeadway" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAIAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>toolbicycleheadway.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolDeleteLoopDetector" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>tooldeleteloopdetector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolLoopArea" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAgAgAAAAAAACAAAAAAAAAAAAAGAAAAAAA=</HashCode>
+      <FileName>toollooparea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolStudyArea" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>toolstudyarea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolPan" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>toolpan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolImage" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAgAAAABAAAAAAAAQgAAAAFAABAAgA=</HashCode>
+      <FileName>toolimage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VideoSemiTrackView" Collapsed="true">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAlAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>videoprocesstrackview.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VideoLoopTrackView" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAABAAAAQAgA=</HashCode>
+      <FileName>videoprocessloopview.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainWindow" Collapsed="true">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiSDAqBgAtjIJCLXI5gWWi0oxZQWDgQjlCIWDIGFKA4=</HashCode>
+      <FileName>mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatWnd" Collapsed="true">
+    <Position X="10" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEAAAAAAEAAAAAACAAMIBAAAIAAAAAAAAAMA=</HashCode>
+      <FileName>matwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressDlg" Collapsed="true">
+    <Position X="10" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAABAAAAAAAAAAAAAAgAAAAAACAAAIAAAA=</HashCode>
+      <FileName>progressdlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlotWnd" Collapsed="true">
+    <Position X="8" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAARAAAAACABAAAAAAAAAAACAAAAAQAAABAIAAABAA=</HashCode>
+      <FileName>plotwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Video3DRecView" Collapsed="true">
+    <Position X="1" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAhAAAAAAAAAAAAACAAAAAAAAAAAIAAAAAAAAQAAA=</HashCode>
+      <FileName>video3drecview.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VideoViewBase" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgDiQADAADAAQAACADAKqBAiQAQIcQgFAAIBCyQAEA=</HashCode>
+      <FileName>videoviewbase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BottomWnd" Collapsed="true">
+    <Position X="12.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bottomwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_MatWnd" Collapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAQAIAAAAIAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_matwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_PlotWnd" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAYAIIAAAAAAAAAABAA=</HashCode>
+      <FileName>GeneratedFiles\ui_plotwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_ProgressDlg" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACQAAAAAAAAQAIAAAAAAAAAAABAA=</HashCode>
+      <FileName>GeneratedFiles\ui_progressdlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_BottomWnd" Collapsed="true">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIABAAAAAAAAACEAAIAAAAAYAIBAAAIAAAAAABAA=</HashCode>
+      <FileName>GeneratedFiles\ui_bottomwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_GlobalSettingDlgBase" Collapsed="true">
+    <Position X="3.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAEIAEAIAAAhAACEAQAAAAEAQAIAAAAAAAAEAABAQ=</HashCode>
+      <FileName>GeneratedFiles\ui_globalsettingdlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_MainWindow" Collapsed="true">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IRCQAoIBEABAAAAAAIIIQPEMAkQALQAACAAQQYAAgAA=</HashCode>
+      <FileName>GeneratedFiles\ui_mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_ResolutionMesureDlgBase" Collapsed="true">
+    <Position X="1" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xQYAkIAAAAAAAhAQCAAQAgkAACQAIAAAAAAIQAAAFBA=</HashCode>
+      <FileName>GeneratedFiles\ui_resolutionmeasuredlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::MatWnd" Collapsed="true">
+    <Position X="8" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_matwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::PlotWnd" Collapsed="true">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_plotwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::ProgressDlg" Collapsed="true">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_progressdlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::BottomWnd" Collapsed="true">
+    <Position X="12.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_bottomwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::GlobalSettingDlgBase" Collapsed="true">
+    <Position X="3.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_globalsettingdlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::MainWindow" Collapsed="true">
+    <Position X="12.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::ResolutionMesureDlgBase" Collapsed="true">
+    <Position X="1" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_resolutionmeasuredlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

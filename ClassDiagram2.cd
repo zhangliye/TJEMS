@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ToolBicycleHeadway" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAIAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>toolbicycleheadway.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolDeleteLoopDetector" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>tooldeleteloopdetector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolLoopArea" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAgAgAAAAAAACAAAAAAAAAAAAAGAAAAAAA=</HashCode>
+      <FileName>toollooparea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolStudyArea" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>toolstudyarea.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolPan" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>toolpan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="globaldata" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQQAAACAAAAAABAAAQAAAAEAIAAAAA=</HashCode>
+      <FileName>globaldata.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainWindow" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiCggoBAIxCIIEKVATiGSgEARJYADIwjFCIQBEEVIAI=</HashCode>
+      <FileName>mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoopDetector" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABggCAAAgAIIAggAAAAAgABAEAAAAAAAAACAAAAYAA=</HashCode>
+      <FileName>loopdetector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MatWnd" Collapsed="true">
+    <Position X="6.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEAAAAAAEAAAAAACAAMIBAAAIAAAAAAAAAMA=</HashCode>
+      <FileName>matwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VideoFrameItem" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAgAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>videoframeitem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolImage" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAgAAAABAAAAAAAAQgAAAAFAABAAgA=</HashCode>
+      <FileName>toolimage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManualprocessingView" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgKCQgBIABDAAICCABAIqRAgAAQYIQgFCoIBCyEAEI=</HashCode>
+      <FileName>manualprocessingview.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BottomWnd" Collapsed="true">
+    <Position X="3.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bottomwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_MatWnd" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAQAIAAAAIAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_matwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_BottomWnd" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIABAAAAAAAAACEAAIAAAAAYAIBAAAIAAAAAABEA=</HashCode>
+      <FileName>GeneratedFiles\ui_bottomwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_GlobalSettingDlgBase" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAEIAEAIAAAhAACEAQAAAAEAQAIAAAAAAAAEAABAQ=</HashCode>
+      <FileName>GeneratedFiles\ui_globalsettingdlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_MainWindow" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAQAoABEABAAAAAAIIIQPAMAAQALQAACAAQQYAAgAA=</HashCode>
+      <FileName>GeneratedFiles\ui_mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_ResolutionMesureDlgBase" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>xQYAkIAAAAAAAhAQCAAQAgkAACQAIAAAAAAIQAAAFBA=</HashCode>
+      <FileName>GeneratedFiles\ui_resolutionmeasuredlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::MatWnd" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_matwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::BottomWnd" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_bottomwnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::GlobalSettingDlgBase" Collapsed="true">
+    <Position X="3.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_globalsettingdlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::MainWindow" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_mainwindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui::ResolutionMesureDlgBase" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_resolutionmeasuredlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
