@@ -9,7 +9,9 @@ STSS-bicycle is a bicycle trajectory extraction software for cycling behavior mo
 
 
 ![Screenshot](gui-main.PNG)
+Figure 1. Main GUI
 ![Screenshot](gui-track.PNG)
+Figure 2. Bicycle tracking
 
 ## Compile
 
